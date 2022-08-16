@@ -33,6 +33,8 @@ Resources that can give you a head start into learning Foundry
 
 [Forge-std](https://github.com/foundry-rs/forge-std)
 
+[solmate](https://github.com/transmissions11/solmate)
+
 ### Other Things That May Help
 
 [References in Foundry](https://book.getfoundry.sh/reference/)
