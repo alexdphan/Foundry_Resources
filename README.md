@@ -1,7 +1,7 @@
 # Foundry_Resources
 
 ## A list of Resources to help learn Foundry
-Resources helped me get a head start into learning Foundry
+Resources that can give you a head start into learning Foundry
 
 ### Tutorials
 
